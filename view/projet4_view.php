@@ -40,5 +40,5 @@ require ('template/template.php');
 ?>
 <!--SCRIPT-->
 	<script src="js/diaporama_object.js"></script>
-	<script src="js/diaporama_projet3.js"></script>
+	<script src="js/diaporama_projet4.js"></script>
 
