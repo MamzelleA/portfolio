@@ -1,0 +1,29 @@
+body {background-image: inherit; width: 100%;}
+
+/*MENU*/
+#navbar {flex-direction: row; justify-content: space-between; height: 5%; width: inherit; float: inherit; top: 0; left: inherit; background-color: white;}
+#title-site {display: flex;}
+#title-site img {width: 20px; height: auto;}
+#name-site {display: flex; flex-direction: column; align-content: center;}
+#menu li {display: inline;}
+
+.anchor {margin-top: 7%;}
+/*HOME*/
+#links {flex-direction: column; margin: 0;}
+.link {
+	border: none;
+	border-radius: 0;
+	margin-right: 0;
+	width: 100%;
+}
+.part {flex-direction: column;}
+.part p {border: none; margin-top: 0;}
+
+/*SKILLS*/
+#knowing {flex-direction: column;}
+#knowing h3 {text-align: left;}
+#knowing ul {list-style-type: initial;}
+#knowing li {display: inline;}
+
+/*FOOTER*/
+#other-link {position: inherit;}

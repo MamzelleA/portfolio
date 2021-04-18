@@ -1,0 +1,15 @@
+h2 {font-size: 2em;}
+
+h3 {font-size: 1.8em;}
+
+p {font-size: 1.2em;}
+
+ul {font-size: 1.2em;}
+
+#title-site h3 {font-size: 1.5em;}
+
+#title-site p {font-size: 1em;}
+.link {width: 20%; font-size: 1.5em;}
+#form-col {display: flex; justify-content: flex-start;}
+.form-col-1 {margin-right: 3em;}
+#other-link h3, #titre {font-size: 1.2em;}
