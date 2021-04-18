@@ -17,6 +17,12 @@ if (isset($_GET['action']))
 	elseif ($_GET['action'] == 'projet3')
 	{
 		require('view/projet3_view.php');
+	}	elseif ($_GET['action'] == 'projet4')
+	{
+		require('view/projet4_view.php');
+	}	elseif ($_GET['action'] == 'projet5')
+	{
+		require('view/projet5_view.php');
 	}
 	elseif ($_GET['action'] == 'skills')
 	{
