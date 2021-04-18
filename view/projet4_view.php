@@ -25,7 +25,7 @@ ob_start();
 					<li>PHP</li>
 					<li>MySql</li>
 					<li>POO</li>
-					<li>WYSIWYG</li>
+					<li>WYSIWYG (TinyMCE)</li>
 					<li>MVC</li>
 				</ul>
 				<h3 class="title-project">Lien vers le site :</h3>
